@@ -265,6 +265,13 @@ _Website:_ [<mark style="color:purple;">linktr.ee/cryptophunks</mark>](https://t
 
 <mark style="color:purple;"></mark>[<mark style="color:purple;">Twitter</mark>](https://twitter.com/CryptoPhunksV2)<mark style="color:purple;"></mark>\ <mark style="color:purple;"></mark>[<mark style="color:purple;">Discord</mark>](https://discord.com/channels/840362318033846333/840362318033846336)<mark style="color:purple;"></mark>
 
+### PxQuest
+
+14 day trial for all PxQuest holders. \
+10 Degen tokens airdropped for giveaways to the PxQuest Community
+
+[<mark style="color:purple;">Linktree</mark>](http://linktr.ee/pxquest)<mark style="color:purple;"></mark>
+
 ### Ape Reunion
 
 14 day trial for all Ape Reunion holders\
