@@ -37,3 +37,17 @@
 <mark style="color:purple;"></mark>[<mark style="color:purple;">rarity.tools</mark>](https://rarity.tools/)<mark style="color:purple;"></mark>
 
 <mark style="color:purple;"></mark>[<mark style="color:purple;">raritysniffer</mark>](https://raritysniffer.com/)<mark style="color:purple;"></mark>
+
+#### Notification Platforms:&#x20;
+
+[<mark style="color:purple;">Ninjalerts</mark>](https://www.ninjalerts.com/)<mark style="color:purple;"></mark>
+
+<mark style="color:purple;"></mark>[<mark style="color:purple;">GM:GN</mark>](https://www.gmgn.me/)<mark style="color:purple;"></mark>
+
+<mark style="color:purple;"></mark>[<mark style="color:purple;">Trending NFT projects. What's minting in real time.</mark>](https://whatsminting.live/)<mark style="color:purple;"></mark>
+
+#### Whale Watchers:&#x20;
+
+<mark style="color:purple;"></mark>[<mark style="color:purple;">https://nftgo.io/whale-tracking/trade</mark>](https://nftgo.io/whale-tracking/trade)<mark style="color:purple;"></mark>
+
+<mark style="color:purple;"></mark>[<mark style="color:purple;">https://nftgo.io/whale-tracking/list</mark>](https://nftgo.io/whale-tracking/list)<mark style="color:purple;"></mark>
