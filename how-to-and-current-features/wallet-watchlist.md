@@ -7,3 +7,7 @@ The Wallet Watchlist feature allows you to add up to 99 wallets. Each wallet wil
 Add a wallet to your watchlist by clicking the <img src="../.gitbook/assets/Screen Shot 2022-03-15 at 3.28.06 PM.png" alt="" data-size="line"> icon on the left hand side.
 
 You can organize your watchlist by dragging and dropping in the edit view. The "delete" button is located on the right of each watchlist item.
+
+![](<../.gitbook/assets/ezgif.com-gif-maker (7).gif>)
+
+You will find that each wallet you're watching will have the same analytical features. Here, you can keep track of your vault(s) and stalk your friends.

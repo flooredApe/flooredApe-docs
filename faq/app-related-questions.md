@@ -6,7 +6,7 @@ The flooredApe NFT token is meant as an access token for the app. The supply is 
 
 ### Will there be an iOS and Android app?
 
-iOS and Android apps will be coming soon. In the meantime, you can set flooredApe as a PWA (progressive web app - or stand alone web app) by adding it to your Home Screen. For a detailed tutorial, check out [Add to home screen](../how-to-and-current-features/add-to-home-screen.md).
+iOS and Android apps will be coming soon. In the meantime, you can set flooredApe as a PWA (progressive web app - or stand alone web app) by _adding it to your Home Screen_. For a detailed tutorial on how, check out [add-to-home-screen.md](../how-to-and-current-features/add-to-home-screen.md "mention").
 
 ### **How often do floor prices update?**
 
@@ -14,7 +14,7 @@ iOS and Android apps will be coming soon. In the meantime, you can set flooredAp
 
 ### **Will we be integrating rarity floor prices?**
 
-This is one of our highly requested features and we're currently working on creating our own custom rarity algorithm.
+This is one of our most highly requested features. We're partnered up with Rarity Sniper and are currently working on rarity floor prices. This feature will be launched in our next update. For now, you can view the rank of your NFT and its rarity score. See here -- [asset-view.md](../how-to-and-current-features/default-view/asset-view.md "mention")
 
 ### **Will flooredApe have cross-chain integration?**
 
@@ -22,7 +22,5 @@ Yes! We definitely want the community to track and watch their NFTs from other c
 
 ### **Can you add multiple wallets?**
 
-This has been highly requested by the community and is on our feature requests list! For now, the Wallet Watchlist allows you to add any ethereum wallet to track NFTs –– you can watch your other wallets through this feature.&#x20;
-
-[wallet-watchlist.md](../how-to-and-current-features/wallet-watchlist.md "mention")
+This has been highly requested by the community and is on our feature requests list! For now, the Wallet Watchlist allows you to add any ethereum wallet to track NFTs –– you can watch your other wallets through this feature. View here -- [wallet-watchlist.md](../how-to-and-current-features/wallet-watchlist.md "mention")
 
