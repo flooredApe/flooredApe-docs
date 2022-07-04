@@ -25,3 +25,4 @@
 * [🪙 Tokenomics](tokenomics.md)
 * [🤝 Community Relations](community-relations/README.md)
   * [✊ Partnerships](community-relations/partnerships.md)
+* [🤓 Blockchain Resources](blockchain-resources.md)
