@@ -24,6 +24,8 @@
 
 <mark style="color:purple;"></mark>[<mark style="color:purple;">icy.tools</mark>](https://icy.tools/)<mark style="color:purple;"></mark>
 
+<mark style="color:purple;"></mark>[<mark style="color:purple;">dune.com</mark>](https://dune.com/)<mark style="color:purple;"></mark>
+
 <mark style="color:purple;"></mark>[<mark style="color:purple;">nansen</mark>](https://www.nansen.ai/)<mark style="color:purple;"></mark>
 
 <mark style="color:purple;"></mark>[<mark style="color:purple;">nftbank</mark>](https://nftbank.ai/landing)<mark style="color:purple;"></mark>
