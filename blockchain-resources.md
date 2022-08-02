@@ -20,7 +20,7 @@
 
 <mark style="color:purple;"></mark>[<mark style="color:purple;">Gem.xyz</mark>](https://www.gem.xyz/) (Buy multiple NFTs at once)
 
-#### NFT Analytics Tools:
+#### NFT Analytical Tools:
 
 <mark style="color:purple;"></mark>[<mark style="color:purple;">icy.tools</mark>](https://icy.tools/)<mark style="color:purple;"></mark>
 
