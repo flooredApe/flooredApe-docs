@@ -8,14 +8,6 @@ The flooredApe NFT token is meant as an access token for the app. The supply is 
 
 iOS and Android apps will be coming soon. In the meantime, you can set flooredApe as a PWA (progressive web app - or stand alone web app) by _adding it to your Home Screen_. For a detailed tutorial on how, check out [add-to-home-screen.md](../how-to-and-current-features/add-to-home-screen.md "mention").
 
-### **How often do floor prices update?**
-
-**Every 15 Minutes**. You can also find "fetch latest data" by clicking your avatar. You can also refresh and/or reload the page.
-
-### **Will we be integrating rarity floor prices?**
-
-This is one of our most highly requested features. We're partnered up with Rarity Sniper and are currently working on rarity floor prices. This feature will be launched in our next update. For now, you can view the rank of your NFT and its rarity score. See here -- [asset-view.md](../how-to-and-current-features/default-view/asset-view.md "mention")
-
 ### **Will flooredApe have cross-chain integration?**
 
 Yes! We definitely want the community to track and watch their NFTs from other chains such as Solana, Polygon, etc. Stay tuned.

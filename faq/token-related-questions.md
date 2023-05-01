@@ -35,11 +35,11 @@ The OG token is airdropped to the first 600 users of flooredApe and a few honora
 
 ### _**LooksRare link:**_
 
-_****_[https://looksrare.org/collections/0x89d92A754FD1A672c21b5fc2a347198D1A9456b3](https://looksrare.org/collections/0x89d92A754FD1A672c21b5fc2a347198D1A9456b3)
+[https://looksrare.org/collections/0x89d92A754FD1A672c21b5fc2a347198D1A9456b3](https://looksrare.org/collections/0x89d92A754FD1A672c21b5fc2a347198D1A9456b3)
 
 ### _**OpenSea link:**_&#x20;
 
-[https://opensea.io/collection/flooredape-access](https://opensea.io/collection/flooredape-access)_****_
+[https://opensea.io/collection/flooredape-access](https://opensea.io/collection/flooredape-access)
 
 ### _**Smart Contract:**_
 

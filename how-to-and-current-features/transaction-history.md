@@ -4,16 +4,16 @@ Keep track of your wallet transactions including the purchase price, gas used, a
 
 Each transaction is in chronological order. You will also find the date and time of purchase and transaction link to [etherscan](https://etherscan.io).
 
-![](<../.gitbook/assets/Screen Shot 2022-06-16 at 1.49.07 AM.png>)
+<figure><img src="../.gitbook/assets/txpage.gif" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
-Expand your History and track your wallet from your very first transaction.
+Sort your transaction history by tx type or chronological order
 {% endhint %}
 
 {% hint style="info" %}
-<img src="../.gitbook/assets/Screen Shot 2022-03-15 at 3.22.42 PM.png" alt="" data-size="line"> The green right arrow refers to your purchases and received transfers.
+<img src="../.gitbook/assets/Screen Shot 2022-03-15 at 3.22.42 PM.png" alt="" data-size="line"> The green right arrow indicates your purchases and received transfers.
 
-<img src="../.gitbook/assets/Screen Shot 2022-03-15 at 3.23.46 PM.png" alt="" data-size="line"> The left red arrow refer to sold and outgoing transfers.
+<img src="../.gitbook/assets/Screen Shot 2022-03-15 at 3.23.46 PM.png" alt="" data-size="line"> The left red arrow indicates sold and outgoing transfers.
 
 <img src="../.gitbook/assets/Screen Shot 2022-03-15 at 3.21.06 PM.png" alt="" data-size="line"> The purple diamond indicates that it was minted.
 
